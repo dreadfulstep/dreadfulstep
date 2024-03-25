@@ -29,9 +29,6 @@
 </div>
 
 ###
-
-<p align="left">I am Currently 14 Years Old</p>
-
 ###
 
 <div align="center">
